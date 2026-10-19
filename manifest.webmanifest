@@ -1,1 +1,1 @@
-{"name":"练力 · 健身训练记录","short_name":"练力","description":"离线记录健身动作、重量、组数与进步","start_url":"./index.html","scope":"./","display":"standalone","background_color":"#f4f6fa","theme_color":"#111827","icons":[{"src":"icon.png","sizes":"192x192","type":"image/png","purpose":"any maskable"}]}
+{"name":"练力 · 健身记录","short_name":"练力","start_url":"./","scope":"./","display":"standalone","background_color":"#f6f7fb","theme_color":"#f6f7fb","icons":[{"src":"icon.png","sizes":"192x192","type":"image/png","purpose":"any maskable"}]}
